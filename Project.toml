@@ -1,0 +1,8 @@
+name = "Householder"
+uuid = "b4e868ad-0f22-41d8-80c0-ac323023c6c4"
+authors = ["jonathan-sudo <johnlegrand972@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
